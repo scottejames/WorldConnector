@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/!svn/ver/77/trunk/WorldConnectorServer/src/com/shinyappythings/restfulservice
+END
+IDBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/!svn/ver/73/trunk/WorldConnectorServer/src/com/shinyappythings/restfulservice/IDBuilder.java
+END
+message.xml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/!svn/ver/61/trunk/WorldConnectorServer/src/com/shinyappythings/restfulservice/message.xml
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repo/!svn/ver/73/trunk/WorldConnectorServer/src/com/shinyappythings/restfulservice/Message.java
+END
+MessageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repo/!svn/ver/77/trunk/WorldConnectorServer/src/com/shinyappythings/restfulservice/MessageService.java
+END
+ChatServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/!svn/ver/77/trunk/WorldConnectorServer/src/com/shinyappythings/restfulservice/ChatServer.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repo/!svn/ver/77/trunk/WorldConnectorServer/src/com/shinyappythings/restfulservice/Configuration.java
+END
+SimpleGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repo/!svn/ver/77/trunk/WorldConnectorServer/src/com/shinyappythings/restfulservice/SimpleGet.java
+END
+SimpleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/!svn/ver/77/trunk/WorldConnectorServer/src/com/shinyappythings/restfulservice/SimpleTest.java
+END

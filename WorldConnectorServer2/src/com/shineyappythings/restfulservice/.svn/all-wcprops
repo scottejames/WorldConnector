@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repo/!svn/ver/97/trunk/WorldConnectorServer2/src/com/shineyappythings/restfulservice
+END
+Launcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/!svn/ver/114/trunk/WorldConnectorServer2/src/com/shineyappythings/restfulservice/Launcher.java
+END
+MessageStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repo/!svn/ver/114/trunk/WorldConnectorServer2/src/com/shineyappythings/restfulservice/MessageStore.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/!svn/ver/114/trunk/WorldConnectorServer2/src/com/shineyappythings/restfulservice/Message.java
+END
+Database.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/!svn/ver/114/trunk/WorldConnectorServer2/src/com/shineyappythings/restfulservice/Database.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/!svn/ver/114/trunk/WorldConnectorServer2/src/com/shineyappythings/restfulservice/Configuration.java
+END
+MessageBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repo/!svn/ver/108/trunk/WorldConnectorServer2/src/com/shineyappythings/restfulservice/MessageBuilder.java
+END
+MessageResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repo/!svn/ver/113/trunk/WorldConnectorServer2/src/com/shineyappythings/restfulservice/MessageResource.java
+END

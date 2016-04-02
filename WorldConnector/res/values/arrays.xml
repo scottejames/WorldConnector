@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pollIntervals">
+        <item>1000ms</item>
+        <item>2000ms</item>
+        <item>5000ms</item>
+        <item>10000ms</item>
+    </string-array>    
+    <string-array name="pollIntervalValues">
+        <item>1000</item>
+        <item>2000</item>
+        <item>5000</item>
+        <item>10000</item>
+    </string-array>
+    <string-array name="Servers">
+        <item>Scott - Public</item>
+        <item>Scott - Development</item>
+    </string-array>    
+    <string-array name="ServerValues">
+        <item>http://192.168.0.12:9000</item>
+        <item>http://192.168.0.12:9999</item>
+    </string-array>    
+</resources>

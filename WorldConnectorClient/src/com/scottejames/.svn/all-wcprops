@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repo/!svn/ver/111/trunk/WorldConnectorClient/src/com/scottejames
+END
+WCTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/!svn/ver/115/trunk/WorldConnectorClient/src/com/scottejames/WCTableModel.java
+END
+WCView.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/!svn/ver/115/trunk/WorldConnectorClient/src/com/scottejames/WCView.java
+END
+WCModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repo/!svn/ver/115/trunk/WorldConnectorClient/src/com/scottejames/WCModel.java
+END
+WCTableDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/!svn/ver/115/trunk/WorldConnectorClient/src/com/scottejames/WCTableDefinition.java
+END
+WCAppModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repo/!svn/ver/111/trunk/WorldConnectorClient/src/com/scottejames/WCAppModel.java
+END
+WCController.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repo/!svn/ver/115/trunk/WorldConnectorClient/src/com/scottejames/WCController.java
+END
+WCMain.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/!svn/ver/111/trunk/WorldConnectorClient/src/com/scottejames/WCMain.java
+END

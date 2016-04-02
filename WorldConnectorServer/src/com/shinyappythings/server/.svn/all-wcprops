@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repo/!svn/ver/19/trunk/WorldConnectorServer/src/com/shinyappythings/server
+END
+IChatServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/!svn/ver/10/trunk/WorldConnectorServer/src/com/shinyappythings/server/IChatServer.java
+END
+ChatServerPublisher.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repo/!svn/ver/19/trunk/WorldConnectorServer/src/com/shinyappythings/server/ChatServerPublisher.java
+END
+ChatServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/!svn/ver/10/trunk/WorldConnectorServer/src/com/shinyappythings/server/ChatServer.java
+END
+SimpleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repo/!svn/ver/19/trunk/WorldConnectorServer/src/com/shinyappythings/server/SimpleTest.java
+END

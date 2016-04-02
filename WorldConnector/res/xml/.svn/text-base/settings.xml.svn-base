@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+	<PreferenceCategory android:title="@string/prefCategory">
+	    <EditTextPreference android:title="@string/prefUser"
+			android:summary="@string/prefUserDefault" android:key="User"
+			android:defaultValue="@string/prefUserDefault" />
+		<ListPreference android:title="@string/prefPollInterval"
+			android:summary="5000ms" android:key="PollInterval"
+			android:defaultValue="5000" android:entries="@array/pollIntervals"
+			android:entryValues="@array/pollIntervalValues" />
+		<ListPreference android:title="@string/prefServer"
+			android:summary="@string/prefServerDefault" android:key="ServerLocation"
+			android:defaultValue="@string/prefServerDefault" android:entries="@array/Servers"
+			android:entryValues="@array/ServerValues" />
+	</PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,48 @@
+
+
+Cleanup
+
+	- JSON Migration
+	- Move client bindings into server code base to make life easier to change
+	- Evaluation move to Jersy as a better restfull server
+	- Evaluation of move to home written server to make life easier to code.
+	- Research benifits case for REST at all 
+	- Improve logging on server
+	- Fix bug that gives duplicates on some occasions
+	- Review threading code to look at client side performance
+	- Improve client side logging
+	- Export logging from server to allow remove visualiation of server stastus
+	- Rooms
+X	- Unique ID
+	- User login
+X	- Message sequence ID to enable client to request updates
+X	- Write to DB on client and update when response from server
+X	- Store message in DB on server
+ 	- Setup developer option wihtin code to allow priv debugging
+	- Remove Copy DB option, move to developer section
+    - Clean up test code on server to pass correct date in the message
+    - Update list to show where messages come from
+    - Option to only show messages from teh server you are connecing too
+	- Fix error checkin in database (server) as its rubbish
+	- Document / comment code to allow us to manage this long term
+	- Move source code to dedicated server off lappy
+	- Update preferences to store readable name for selected preference
+	
+Achieve 30 Oct
+X	- X Message sequence ID
+X	- Setup properties in server
+X	- Store to DB on client
+X	- Change DB record to preserve ticks not formatted date time.
+X	- Run servers in parallel
+X	- Update date within sever to be set by client not server
+X	- Server to be return from messages after ID
+X	-  Update print message list to print only messages that are published
+X	- Find database on arry's machine (cant find it so switching task too:
+X	- Setup code to extract SQL database to SD card
+X	- Update poller on client
+X	- REmove duplicates (post and get) 
+x	- Persist server message id as client keeps last and having it reset means no messages are downloaded until x new ones are created
+X	- Add poll interval preference, update poll time to one second.
+X	- Reload server from database so messages are persisted
+x	- Reset count on client if server count is too low to ensure messages are not missed
+x	- Persist count on server

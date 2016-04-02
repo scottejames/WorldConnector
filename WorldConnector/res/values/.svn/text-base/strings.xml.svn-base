@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Shiney Appy Talker</string>
+
+	<string name="prefs_title">Shiney Appy Talker - Preferences</string>
+    <string name="prefs_label">Preferences...</string>
+
+    <string name="clearDB_label">Clear History</string>
+    <string name="copyDB_label">Copy DB</string>
+        
+    <string name="prefCategory">Preferences</string>
+    <string name="prefUser">User</string>
+    <string name="prefUserDefault">Newbie</string>
+
+    <string name="prefServer">Server</string>
+    <string name="prefServerDefault">http://192.168.0.12:9000</string>
+        
+    <string name="prefPollInterval">Polling Interval</string>
+    <string name="prefPollIntervalDefault">1000</string>
+    <string name="prefPollIntervalDefaultText">1000ms</string>
+</resources>

@@ -1,0 +1,47 @@
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+	<S:Body>
+		<ns2:say xmlns:ns2="http://server.shinyappythings.com/">
+			<arg0>scott</arg0>
+			<arg1>hello world</arg1>
+		</ns2:say>
+	</S:Body>
+</S:Envelope>
+
+
+
+<v:Envelope xmlns:i="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:d="http://www.w3.org/2001/XMLSchema" xmlns:c="http://schemas.xmlsoap.org/soap/encoding/"
+	xmlns:v="http://schemas.xmlsoap.org/soap/envelope/">
+	<v:Header />
+	<v:Body>
+		<say xmlns="http://server.shinyappythings.com/" id="o0" c:root="1">
+			<arg0 i:type="d:string">Zayn</arg0>
+			<arg1 i:type="d:string">Hello World</arg1>
+		</say>
+	</v:Body>
+</v:Envelope>
+
+<v:Envelope xmlns:i="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:d="http://www.w3.org/2001/XMLSchema" xmlns:c="http://schemas.xmlsoap.org/soap/encoding/"
+	xmlns:v="http://schemas.xmlsoap.org/soap/envelope/">
+	<v:Header />
+	<v:Body>
+		<n0:say id="o0" c:root="1" xmlns:n0="http://server.shinyappythings.com/">
+			<arg0 i:type="d:string">Zayn</arg0>
+			<arg1 i:type="d:string">Hello World</arg1>
+		</n0:say>
+	</v:Body>
+</v:Envelope>
+
+<v:Envelope xmlns:i="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:d="http://www.w3.org/2001/XMLSchema" xmlns:c="http://schemas.xmlsoap.org/soap/encoding/"
+	xmlns:v="http://schemas.xmlsoap.org/soap/envelope/">
+	<v:Header />
+	<v:Body>
+		<n0:say id="o0" c:root="1" xmlns:n0="http://server.shinyappythings.com/">
+			<arg0 i:type="d:string">Arry</arg0>
+			<arg1 i:type="d:string"></arg1>
+		</n0:say>
+	</v:Body>
+</v:Envelope>
+

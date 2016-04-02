@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/repo/!svn/ver/84/trunk/WorldConnector
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/repo/!svn/ver/14/trunk/WorldConnector/.classpath
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/repo/!svn/ver/4/trunk/WorldConnector/proguard.cfg
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repo/!svn/ver/9/trunk/WorldConnector/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/repo/!svn/ver/4/trunk/WorldConnector/.project
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repo/!svn/ver/65/trunk/WorldConnector/AndroidManifest.xml
+END

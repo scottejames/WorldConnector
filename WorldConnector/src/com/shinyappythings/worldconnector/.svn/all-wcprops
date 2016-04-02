@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repo/!svn/ver/81/trunk/WorldConnector/src/com/shinyappythings/worldconnector
+END
+CommentsData.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repo/!svn/ver/80/trunk/WorldConnector/src/com/shinyappythings/worldconnector/CommentsData.java
+END
+Helper.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repo/!svn/ver/81/trunk/WorldConnector/src/com/shinyappythings/worldconnector/Helper.java
+END
+Prefs.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repo/!svn/ver/80/trunk/WorldConnector/src/com/shinyappythings/worldconnector/Prefs.java
+END
+CommentsProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/!svn/ver/80/trunk/WorldConnector/src/com/shinyappythings/worldconnector/CommentsProvider.java
+END
+DBConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repo/!svn/ver/80/trunk/WorldConnector/src/com/shinyappythings/worldconnector/DBConstants.java
+END
+CommunicatorTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/!svn/ver/75/trunk/WorldConnector/src/com/shinyappythings/worldconnector/CommunicatorTask.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repo/!svn/ver/80/trunk/WorldConnector/src/com/shinyappythings/worldconnector/Main.java
+END
+ExportDatabaseFileTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repo/!svn/ver/80/trunk/WorldConnector/src/com/shinyappythings/worldconnector/ExportDatabaseFileTask.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repo/!svn/ver/81/trunk/WorldConnector/src/com/shinyappythings/worldconnector/Constants.java
+END
+CommunicatorREST.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repo/!svn/ver/81/trunk/WorldConnector/src/com/shinyappythings/worldconnector/CommunicatorREST.java
+END
